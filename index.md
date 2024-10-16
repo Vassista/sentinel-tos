@@ -13,7 +13,7 @@ Users agree not to use the bot for any unlawful or prohibited activities, includ
 - Violation of any applicable laws or regulations.
 
 ## 4. Privacy
-We respect your privacy. None of your data is collected
+We respect your privacy. Please refer to our privacy policy.
 
 ## 5. Modifications to Service
 We reserve the right to modify or discontinue the service at any time without notice. We are not liable for any modification, suspension, or discontinuation of the service.
